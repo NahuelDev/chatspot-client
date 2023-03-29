@@ -2,7 +2,7 @@
 
 Chatspot is a chat application that allows you to connect with other people who are listening to the same song as you on Spotify. The application uses the Spotify API to fetch the current song and match you with other users who are listening to the same track.
 
-![Chatspot client](https://raw.githubusercontent.com/NahuelDev/images/main/chatspot.png?token=GHSAT0AAAAAAB7UXLFYVCRPI67B4FRHW4Y4ZBEY4NA)
+![Chatspot client](https://i.imgur.com/dmw1uyf.png)
 
 ## Features
 
